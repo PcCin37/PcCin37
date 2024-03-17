@@ -1,7 +1,7 @@
 ###  Hey Yo, Here's PcCin37! 👋
 
 - 🔭 Currently learning Human-Computer Interaction, Interaction Design and Augmented Reality
-- 💪🏻 Python, Java
+- 💪🏻 Python, Java, C#
 - 🛠️ Pixso, Figma, Maya, Unity
 - 🥰 Looking to collaborate with who have the same interests
 - 🤔 Looking for help with ..., maybe later we can talk about this
